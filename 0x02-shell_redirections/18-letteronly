@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'A[A-za-z]' /etc/ssh/sshd_confiq
+grep '^[|alpha|]' /etc/ssh/sshd_confiq
